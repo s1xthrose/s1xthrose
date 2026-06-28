@@ -1,16 +1,24 @@
-## Hi there 👋
+# Roman Maksimov
 
-<!--
-**s1xthrose/s1xthrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NLP / LLM Data Scientist**
 
-Here are some ideas to get you started:
+I design and build production-oriented NLP and LLM systems, from data and evaluation pipelines to reliable deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Retrieval-augmented generation and semantic search
+- LLM evaluation, prompt workflows, and quality monitoring
+- Domain-specific AI assistants and document intelligence
+- Reproducible experimentation and ML system architecture
+
+## Toolbox
+
+`Python` · `SQL` · `NLP` · `LLM APIs` · `RAG` · `Streamlit` · `Docker` · `Kubernetes`
+
+## Engineering principles
+
+- Measure quality before optimizing it
+- Prefer reproducible pipelines over one-off notebooks
+- Treat observability, evaluation, and failure modes as product features
+
+Currently working on LLM-powered analytical assistants and evaluation workflows for domain-specific data.
