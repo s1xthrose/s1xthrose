@@ -11,6 +11,12 @@ I design and build production-oriented NLP and LLM systems, from data and evalua
 - Domain-specific AI assistants and document intelligence
 - Reproducible experimentation and ML system architecture
 
+## Current work
+
+- Building domain-specific LLM assistants for analytical and operational workflows
+- Designing retrieval and evaluation pipelines with explicit quality metrics
+- Turning research prototypes into observable, maintainable services
+
 ## Toolbox
 
 `Python` · `SQL` · `NLP` · `LLM APIs` · `RAG` · `Streamlit` · `Docker` · `Kubernetes`
@@ -20,5 +26,3 @@ I design and build production-oriented NLP and LLM systems, from data and evalua
 - Measure quality before optimizing it
 - Prefer reproducible pipelines over one-off notebooks
 - Treat observability, evaluation, and failure modes as product features
-
-Currently working on LLM-powered analytical assistants and evaluation workflows for domain-specific data.
