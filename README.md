@@ -26,3 +26,7 @@ I design and build production-oriented NLP and LLM systems, from data and evalua
 - Measure quality before optimizing it
 - Prefer reproducible pipelines over one-off notebooks
 - Treat observability, evaluation, and failure modes as product features
+
+## Collaboration
+
+Open to focused work on applied NLP, retrieval evaluation, domain-specific LLM systems, and production ML architecture.
